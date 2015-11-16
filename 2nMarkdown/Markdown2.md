@@ -39,3 +39,5 @@
 - Markdown入门学习小结<http://www.jianshu.com/p/21d355525bdf>
 
 - 理想的写作环境：Git+Github+Markdown+Jekyll<http://www.yangzhiping.com/tech/writing-space.html>
+
+- 阳老 [《像黑客一样学习与写作》](http://www.douban.com/group/topic/39939196)
